@@ -35,7 +35,7 @@ export const Objective: React.FC = () => {
               </blockquote>
 
               <p className="text-slate-400 text-sm leading-relaxed mb-6">
-                We believe in writing robust code, maintaining modern architecture standards, and delivering software that solves real-world engineering challenges.
+                We believe in writing code, maintaining modern architecture standards, and delivering software that solves real-world engineering challenges.
               </p>
 
               <div className="flex items-center gap-3 text-cyan-400 font-semibold text-sm">
