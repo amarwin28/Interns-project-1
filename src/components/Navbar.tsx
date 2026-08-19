@@ -150,7 +150,7 @@ export const Navbar: React.FC = () => {
                 onClick={(e) => handleNavClick(e, '#contact')}
                 className="mt-2 text-center py-3 rounded-xl font-semibold text-white bg-gradient-to-r from-indigo-600 to-cyan-600"
               >
-                Contact Us
+                Contact
               </a>
             </div>
           </motion.div>
