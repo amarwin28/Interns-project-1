@@ -45,7 +45,7 @@ export const About: React.FC = () => {
             </div>
 
             <h2 className="section-title">
-              Driven by Passion, Built for Innovation
+              Driven by code5x, Built for Innovation
             </h2>
 
             <p className="text-slate-300 text-lg leading-relaxed mb-6">
