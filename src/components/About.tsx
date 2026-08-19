@@ -21,7 +21,7 @@ const pillars = [
   {
     icon: Rocket,
     title: 'Collaborative Execution',
-    desc: 'Working seamlessly with structured Git workflows and project management.'
+    desc: 'Working seamlessly with my Team.'
   }
 ];
 
