@@ -5,7 +5,7 @@ import { Users2, Code, ShieldCheck, Cpu, Rocket, Sparkles } from 'lucide-react';
 const pillars = [
   {
     icon: Code,
-    title: 'Frontend  Engineering',
+    title: 'Working on frontend',
     desc: 'Crafting pixel-perfect, responsive client applications with React and TypeScript.'
   },
   {
