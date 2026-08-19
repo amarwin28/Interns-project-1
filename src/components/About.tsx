@@ -49,7 +49,7 @@ export const About: React.FC = () => {
             </h2>
 
             <p className="text-slate-300 text-lg leading-relaxed mb-6">
-              We are a collaborative team of engineering students with diverse technical skills across frontend development, backend engineering, databases, testing, project management, and AI-powered applications.
+              We are a collaborative team of engineering students with diverse technical skills across frontend development, backend engineering, databases, testing,debugging, solving and managing projects , and AI-powered applications.
             </p>
 
             <p className="text-slate-400 text-base leading-relaxed mb-8">
